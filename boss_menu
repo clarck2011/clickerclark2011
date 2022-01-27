@@ -1,0 +1,3 @@
+class BossMenu:
+    def _init_(self):
+        ...
